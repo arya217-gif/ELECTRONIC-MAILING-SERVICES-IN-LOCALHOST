@@ -1,0 +1,6 @@
+Name: Arya sing
+Email: aryasingh@gmail.com
+Password: 1234
+Mobile: 1234567890
+FirstPhone: 1234567890
+Address: Bhadrak, Odisha
